@@ -1,0 +1,173 @@
+comment_id,post_id,debate_group,comment_user_name,commented_user_name,comment_body,comment_score,preprocessed_comment,NRC,BERT
+ki3k2mh,197vo6o,1,SurprysE,Odd_Sentence_2618,"BOIA SI! Basta guardare da dove sono registrati gli account di provenienza, strano che la Ferragni vada molto in India (all'epoca quando scoprii questa cosa).",11,BOIA SI bastare guardare registrato account provenienza strano Ferragni andare molto India a il epoca quando scoprii cosa,"['negative', 'disgust']",sentiment_neut
+ki5i0gd,197vo6o,1,SurprysE,the_white_cloud,"Non fa una grinza, ma metti in movimento il tuo profilo rendendolo più appetibile all'algoritmo in modo da portarlo più su nei contenuti che quotidianamente vedi.",1,non fare grinza metti movimento profilo rendendolo più appetibile a il algoritmo modo portare lo più contenuto quotidianamente vedere,"['neutral', 'none']",sentiment_neut
+ki4y2a5,197vo6o,1,SurprysE,the_white_cloud,"Sono bot che fanno un minimo di attività per evitare di essere bannati dalla piattaforma,",1,essere bot minimo attività evitare essere bannare piattaforma,"['negative', 'fear']",sentiment_neut
+ki3r883,197vo6o,1,theseawillclaim,zombilives,"Ma immagino, anche il suo brand è sempre in rosso (nonostante i negozi in centro città e posti strategici), e non riesco a capire perché qualcuno dovrebbe comprare una pizza surgelata (prodotto a caso, ma nemmeno troppo distante da quelli che lei ha promosso) giusto perché c’è il suo nome sopra. (A meno che non si metta in mezzo la beneficenza, ma qui…)",12,ma immagare Brand sempre rosso nonostante negozio centro città posto strategico non riesco capire qualcuno dovere comprare pizza surgelato produrre caso nemmeno troppo distante promuovere giusto ’ nome sopra A meno non mettere mezzo beneficenza qui …,"['positive', 'anticipation']",sentiment_neut
+ki3rgah,197vo6o,1,zombilives,theseawillclaim,"ma infatti è quello che dico io, è allucinante quanti polli ci siano e come questa gente ci guadagni da paura, per poi pontificare dall'alto dei 20 milioni all'anno più tutto quello che già hanno su migranti , su parità e cazzate del genere",6,infatti dire allucinante pollo gente guadagnare paurare poi pontificare da il alto 20 milione a il anno più già migrante parità cazzare genere,"['positive', 'fear']",sentiment_neut
+ki3pxf1,197vo6o,1,zombilives,theseawillclaim,infatti se ricordo bene la collaborazione della signora con Tods mi pare non sia servita a nulla anche se era pompata a mille dai giornali...,8,infatti ricordare bene collaborazione signore Tods parere non servitare nulla pompare mille giornale ...,"['positive', 'trust']",sentiment_neut
+ki3pi87,197vo6o,1,zombilives,David0ne86,vero o LMAO,2,vero LMAO,"['positive', 'none']",sentiment_neut
+ki3pfur,197vo6o,1,zombilives,SuperCrazyAlbatross,ma tanto tutte le cose stile charity non vanno mai a finire in beneficenza su internet.. basta il caso creator clash (idubbz e anisah) e the completionist( jirard),1,tanto tutto cosa stile charity non andare mai finire beneficenza internet .. bastare caso creator clash idubbz anisah the completionist Jirard,"['negative', 'fear']",sentiment_neut
+ki3porw,197vo6o,1,zombilives,Lassemb,e si lei e il marito fanno i comunisti col richard mille,7,marito comunista richard mille,"['negative', 'none']",sentiment_neut
+ki3is7m,197vo6o,1,David0ne86,Odd_Sentence_2618,"si beh, ci siam capiti lol
+
+\*Paesello da 200 persone dove tutti sanno tutto di tutti anche quante volte tizio caga al giorno e l'ora\* ""nono, non sapevamo vivesse qui!""
+
+LOL",17,Beh Siam capire lol Paesello 200 persona sapere volgere tizio cagare giorno il ora ne non sapevamo vivesse qui LOL,"['neutral', 'none']",sentiment_neut
+ki4kihd,197vo6o,1,David0ne86,non_saprei,Non di caffè?,0,non caffè,"['neutral', 'none']",sentiment_neut
+ki3iqx6,197vo6o,1,Odd_Sentence_2618,SurprysE,"La novità è che hanno pubblicato la ""notizia"". I followers li compri un tanto al kg. Ci sono agenzie create solo per quello.",50,il novità pubblicare notizia il followers comprare tanto kg ci agenzia creare solo,"['neutral', 'none']",sentiment_neut
+ki3ihev,197vo6o,1,Odd_Sentence_2618,David0ne86,O perchè il boss deve pagarsi la chemio e se la fa pagare dallo stato.,13,o perché boss dovere pagare si chemio fare pagare stato,"['positive', 'anticipation']",sentiment_neut
+ki3ix57,197vo6o,1,Odd_Sentence_2618,MenIntendo,"Poi anni dopo, ti raduni ad Acca Laurentia e ti spari i greatest hits delle cagate che ha detto in versione nostalgica, alzando il braccio e inneggiando ai bei tempi (quando i treni andavano in orario o menate simili) come ad un concerto dei Rolling Stones.",4,poi anno dopo raduno Acca Laurentia sparare greatest hits cagato dire versione nostalgico alzare braccio inneggiare bello tempo quando treno andare orario menato simile concerto Rolling Stones,"['negative', 'sadness']",sentiment_neut
+ki3p24r,197vo6o,1,RoninSennin,David0ne86,"È quello che ho pensato anche io, sembra che abbia pestato il piede sbagliato",2,essere pensare sembrare pestato piede sbagliato,"['negative', 'none']",sentiment_neut
+ki3dgnt,197vo6o,1,Lassemb,MenIntendo,"Non seguo la Ferragni quindi non so con certezza, forse ha parlato male del presidente?",-4,non seguo Ferragni quindi non sapere certezza forse parlare male presidente,"['positive', 'trust']",sentiment_neut
+ki3h2cq,197vo6o,1,a66o,David0ne86,"Esattamente. Quando si dice tanto fumo poco arrosto, ecco in questo caso é tutto solo fumo e si sono un po' rotti il cazzo. Ahahahaha",1,esattamente quando dire tanto fumo poco arrosto ecco caso é solo fumo po rotto cazzo Ahahahaha,"['negative', 'fear']",sentiment_neut
+ki3ix4f,197vo6o,1,Solid-Bonus-8376,David0ne86,"Non preoccupatevi riusciranno comunque a ""personalizzare"" la faccenda bastonando solo la Ferragni, i media eviteranno di fare tutti quei discorsi di ""guerra psicologica"" che viviamo ogni giorno, come ad esempio appunto il fatto che i profili falsi sui social sono un potenziale strumento di controllo, perché se fatto bene possono impiantare nella testa delle persone che arrivano a quel profilo l'idea che ciò che propone il profilo vada quantomeno ascoltato invece che doomscrollato, come succede coi profili 2k followers, è così anche con gli artisti. Anche i profili dei politici sono pieni di questi profili falsi, è evidente dunque che questi strumenti di controllo sono molti più di quanto pensiamo e li stanno già da tempo usando contro di noi",64,non preoccupatevo riuscire comunque personalizzare faccenda bastonare solo Ferragni medio evitniee fare quello discorso guerra psicologico viviamo ogni giorno esempio appunto fare profilo falso social potenziale strumento controllo fare bene potere impiantare testa persona arrivare quello profilo il idea ciò proporre profilo andare quantomeno ascoltare invece doomscrollare succedere profilo 2k followers così artista Anche profilo politico pieno profilo falso evidente dunque strumento controllo molto più pensare già tempo usare,"['neutral', 'anticipation']",sentiment_neut
+ki3jyd6,197vo6o,1,Phedericus,Odd_Sentence_2618,"esatto, questo vale per tutti quelli con grossi numeri sui social. una buona % sono falsi, alcuni neanche li devi comprare. si sottovaluta tantissimo il numero di bot su internet.",26,esatto valere grosso numero social buono falso alcuno neanche dovere comprare sottovaluto tanto numero bot internet,"['negative', 'anger']",sentiment_neut
+ki4ggwv,197vo6o,1,Phedericus,the_white_cloud,"totally. 1/3 é una percentuale molto alta, però sí funziona così.",1,totally 1/3 é percentuale molto alto però sí funzionare così,"['neutral', 'none']",sentiment_neut
+ki4fvfm,197vo6o,1,kwere98,RoninSennin,"Lui era già ricco, streamma dalla villa del papi a Lugano",3,lui già ricco streamma villa papi Lugano,"['neutral', 'none']",sentiment_neut
+ki45vvt,197vo6o,1,non_saprei,David0ne86,"
+>Avra' fatto girare i coglioni alla persona sbagliata.
+
+Avrà fatto qualche sgarro a qualche industria di pandoro",2,avra fare girare coglione persona sbagliato Avrà fare qualche sgarro qualche industria pandoro,"['negative', 'none']",sentiment_neut
+ki3ddgg,197vo6o,1,MenIntendo,Lassemb,Vendetta di cosa?,8,Vendetta cosa,"['negative', 'anger']",sentiment_neut
+ki52ff2,197vo6o,1,the_white_cloud,SurprysE,"Non voglio essere brusco o maleducato, ma davvero la finalità mi interessa poco. Quello che intendevo dire è che se io, un signor nessuno, posso avere i follower falsi che nemmeno voglio, figuriamoci chi potrebbe volerne.",4,non volere essere brusco maleducare davvero finalità interessare poco quello intendere dire signore nessuno potere avere follower falso nemmeno volere figuriamoce potere volere ne,"['negative', 'anger']",sentiment_neut
+ki41dfj,197vo6o,1,the_white_cloud,Phedericus,"Ma se perfino il mio account Twitter di cui non ricordo nemmeno la password e su cui non pubblico nulla ha dei follower... Li scopro ogni volta che cambio la password, 30 follower in più. Boh. Mai scritto nulla, mai ritwittato, mai risposto, mai un like... Ovvio che siano tutti falsi. Ora, vuoi che un account Twitter con una minima fama non abbia una percentuale di follower falsi?",10,ma perfino account Twitter non ricordare nemmeno password non pubblico nulla followerre . li scoprare ogni volta cambio password 30 followerre più Boh Mai scrivere nulla mai ritwittare mai rispondere mai like ... Ovvio falso ora volere account Twitter minimo fama non percentuale followerre falso,"['neutral', 'anger']",sentiment_neut
+kifokia,197vo6o,1,StringBlacker,kwere98,Falso svizzero di merda,1,Falso svizzero merdare,"['negative', 'anger']",sentiment_neut
+ki3mz16,197vo6o,1,Zoo_M-0,MenIntendo,Vendetta vera,12,vendetta vero,"['neutral', 'anger']",sentiment_neut
+ki3jhkw,197vo6o,2,Polaroid1793,TURBINEFABRIK74," Non ho mai visto una persona in vita mia cambiare idea perché Chiara Ferragni ha detto qualcosa. Secondo me la state sopravvalutando enormemente. Poi, lungi da me dal difenderla, ma sulla tv pubblica vedi talmente tanta merda che la Ferragni è l'ultima delle cose di cui indignarsi.",3,non mai vedere persona vita cambiare idea Chiara Ferragni dire qualcosa Secondo me stare sopravvalutare enormemente poi lungi me difendere lo tv pubblico vedere talmente tanto merda Ferragni il ultimo cosa indignare si,"['positive', 'anticipation']",sentiment_neg
+ki3l5an,197vo6o,2,TURBINEFABRIK74,Polaroid1793,"Non dico che abbia avuto chissà che impatto, concordo che forse le si da troppa importanza però.",5,non dire chissà impatto concordo forse troppo importanza però,"['positive', 'anticipation']",sentiment_neg
+ki3ii0r,197vo6o,2,TURBINEFABRIK74,Polaroid1793,"Oddio, quando te la sbattono in prima serata di un evento nazionale a leggersi le letterine,  volente o nolente te la sorbisci",15,oddio quando te sbattere primo serata evento nazionale leggere si letterine volente nolente te sorbire,"['positive', 'none']",sentiment_neg
+ki40cdb,197vo6o,3,Erlayx,Tridop,"Nono, io per profili verificati intendo che ci deve essere una persona dietro ad un profilo di un social network. 
+I social poi hanno sfruttato questa cosa per farci un abbonamento, è normale che così non riesci a conquistare il pubblico",0,Nono profilo verificare intendere dovere essere persona dietro profilo social network il social poi sfruttare cosa farci abbonamento normale così non riesci conquistare pubblico,"['positive', 'anticipation']",sentiment_neg
+ki3xx9u,197vo6o,3,Tridop,Erlayx,Porcoddio vorresti la Stasi.,3,porcoddio vorresti Stasi,"['neutral', 'none']",sentiment_neg
+ki9gkdh,197vo6o,3,alakyr,Erlayx,"ma in generale ogni ""utenza"" che viene creata deve essere validata, così da dare freno anche alle caselle usa e getta che vengono usate per riempirti la posta di phishing ogni santo giorno...ne cancellerò 80 al giorno ormai",1,generale ogni utenza venire creare dovere essere validare così dare freno caselle Usa getto venire usare riempirto porre phishing ogni santo giorno . cancellerare 80 giorno ormai,"['positive', 'trust']",sentiment_neg
+ki4p1ep,197vo6o,4,Thunder_Beam,SuperCrazyAlbatross,"In un certo senso si, più che altro usano il loro alto karma per farsi notare da aziende e pubblicizzare i loro prodotti su reddit.",1,in certo senso più altro usare alto karma fare si notare azienda pubblicizzare prodotto reddito,"['positive', 'none']",sentiment_neut
+ki4nmd2,197vo6o,4,Thunder_Beam,SuperCrazyAlbatross,"C'è gente che ci prova a diventare famosa e guadagnare su reddit, soprattutto grazie al sistema del karma (basta vedere il numero di persone con link ad onlyfans sul loro profilo)",1,ci essere gente provare diventare famoso guadagnare reddit soprattutto grazie sistema karma bastare vedere numero persona link onlyfans profilo,"['positive', 'trust']",sentiment_neut
+ki4mg4a,197vo6o,4,Thunder_Beam,SuperCrazyAlbatross,"4chan lol, (so che non è un social, però un social dove ""non puoi diventare famoso e guadagnare"" è impossibile visto che dovresti mettere l'anonimato)",2,4chan lol sapere non social però social non potere diventare famoso guadagnare impossibile visto dovresti mettere il anonimato,"['positive', 'sadness']",sentiment_neut
+ki4o04j,197vo6o,4,SuperCrazyAlbatross,Thunder_Beam,"Si ma non son famose su reddit, postano qualche foto in qualche sub e sperano di far arrivare il pubblico su of dove ci guadagnano
+
+La questione karma non la ho capita piu ne hai piu hai i commenti e i post visibili?",1,si non son famoso reddit postare qualche foto qualche sub sperare fare arrivare pubblico of guadagnare il questione Karma non capitare piu piu commento post visibile,"['positive', 'anticipation']",sentiment_neut
+ki4n4td,197vo6o,4,SuperCrazyAlbatross,Thunder_Beam,Si ma anche reddit allora,4,si reddit allora,"['neutral', 'none']",sentiment_neut
+ki3ur6b,197vo6o,4,SuperCrazyAlbatross,Puzzleheaded-Book196,Mai detto il contrario,3,mai dire contrario,"['negative', 'none']",sentiment_neut
+ki3xs75,197vo6o,4,Emboar_Bof,Sparaucchio,"I forum erano anche milioni di volte più di nicchia rispetto ai social.
+
+Erano comunità di appassionati. Per loro il semplice poter discutere di qualunque cosa fosse la loro passione con altri altrettanto appassionati era abbastanza ""contenuto"" per loro.
+
+Oggi i social sono fatti per far ""spegnere il cervello"" a miliardi di persone e nel frattempo gonfiargli la capoccia di pubblicità. I forum non erano fatti per quello.",8,il forum milione volgere più nicchio rispetto social essere comunità appassionare per semplice potere discutere qualunque cosa passione altro altrettanto appassionare abbastanza contenuto oggi social fare fare spegnere cervello miliardo persona frattempo gonfiare gli capoccia pubblicità il forum non fare,"['positive', 'trust']",sentiment_neut
+ki3sft3,197vo6o,4,Puzzleheaded-Book196,SuperCrazyAlbatross,"Non ha potenziale banalmente perché un social per andare avanti ha bisogno di contenuti. E se nessuno viene pagato per farli, la loro qualità e quantità sarà molto più scarsa, quindi meno gente starà sul social e così via di circolo vizioso",5,non potenziale banalmente social andare avanti bisogno contenuto E nessuno venire pagare farli qualità quantità molto più scarso quindi meno gente social così via circolo vizioso,"['neutral', 'anticipation']",sentiment_neut
+ki3vm0a,197vo6o,4,Sparaucchio,Puzzleheaded-Book196,">E se nessuno viene pagato per farli, la loro qualità e quantità sarà molto più scarsa
+
+Non so.. I vecchi forum avevano contenuti qualità  estremamente maggiore ai social odierni. Manco paragonabile. I social di ora sono 99.9999% pubblicità",8,e nessuno venire pagare farli qualità quantità molto più scarso non sapere .. il vecchio forum contenuto qualità estremamente maggiore social odierno Manco paragonabile il social ora 99.9999 pubblicità,"['positive', 'anticipation']",sentiment_neut
+ki411q1,197vo6o,4,Sparaucchio,ShitOnFascists,">Quei forum avevano anche una quantità infinitesimale dei contenuti dei social di oggi,
+
+Ah se togli la merda dai social odierni, forse avevamo più contenuti in passato..
+
+>devono pagare i moderatori,
+
+Ah tipo reddit?
+
+Mai visto un forum o social dove pagassero i moderatori. Perfino quelli dei giochi sono tutti volontari",5,queo forum quantità infinitesimale contenuto social oggi ah togli merdare social odierno forse più contenuto passare .. dovere pagare moderatore ah tipo reddit Mai vedere forum social pagare moderatore Perfino gioco volontario,"['positive', 'anticipation']",sentiment_neut
+ki9xl8q,197vo6o,4,Lotmi,andrxxx,Internet=vestiti-moda informazioni e tutorial !così sarebbe perfetto ! E anche trattare vari temi come il lavoro,1,internet vestire - moda informazione tutorial così perfetto E trattare vario tema lavoro,"['positive', 'anticipation']",sentiment_neut
+ki44b0w,197vo6o,4,andrxxx,Sparaucchio,i forum e i  video di youtube che ti spiegavano come fare qualcosa.....quello era internet,6,forum video youtube spiegare fare qualcosa ... internet,"['positive', 'trust']",sentiment_neut
+ki69rgq,197vo6o,4,Edheldui,Sparaucchio,Ma infatti l'unica qualità che è salita è quella delle telecamere utilizzate. La qualità della presentazione non è correlata a quella dei contenuti.,2,ma infatti il unico qualità salitare telecamere utilizzare il qualità presentazione non correlare contenuto,"['positive', 'surprise']",sentiment_neut
+ki40qfw,197vo6o,4,ShitOnFascists,Sparaucchio,"Quei forum avevano anche una quantità infinitesimale dei contenuti dei social di oggi, erano pieni di moderatori aggratis e potevano fare il bello e il cattivo tempo come gli pareva perché anche se ci finivano contenuti illegali in alcuni paesi non dovevano fare nulla
+
+Oggi ogni social deve stare attento alle leggi di ventordici paesi diversi, stare allerta per messaggi mandati da quegli stessi paesi che dicono di rimuovere roba o essere bloccati, stare più attenti alla moderazione, devono pagare i moderatori, devono essere on 24/7, e visto che i server non costano poco devono pure stare attenti alle pubblicità e attirare aziende
+
+Pensa anche solo ai forum di war thunder, un gioco, dove devono stare sempre allerta per leak di informazioni classificate/riservate e eliminarli il prima possibile per evitare problemi legali, immagina un social generale quanto deve stare attento a mille cose diverse",2,queo forum quantità infinitesimale contenuto social oggi pieno moderatore aggratis potere fare bello cattivo tempo parere finivano contenuto illegale alcuno paese non dovere fare nulla Oggi ogni social dovere stare attento legge ventordico paese diverso stare allerto messaggio mandato quello paese dire rimuovere roba essere bloccare stare più attenti moderazione dovere pagare moderatore dovere essere on 24/7 vedere server non costare poco dovere pure stare attento pubblicità attirare azienda Pensa solo forum war thunder gioco dovere stare sempre allerto Leak informazione classificato riservare eliminare li prima possibile evitare problema legale immaginare social generale dovere stare attento mille cosa diverso,"['positive', 'fear']",sentiment_neut
+ki7a5x8,197vo6o,4,testiclekid,Sparaucchio,"Io sto usando Revanced Reddit e Revanced YouTube e mi trovo da dio.
+
+Non so come ho fatto a vivere senza fino ad ora. Grazie a Revanced, ho ricominciato a guardare YouTube e YouTube ha ancora contenuti informativi se sai dove cercare (almeno per il genere di cose che guardo io sono soddisfatto, nonostante siano meno intrattenimento e più educazione ).
+
+
+Stranamente non trovi grandi video su come installare Revanced ma trovi un gozillione di video differenti sull'alimentazione. Per le guide sulla pirateria vi serve Reddit stesso
+
+
+YouTube adesso è come Read Comics Online se ci pensate. È intestato di pubblicità ed è inguardabile. Ma se hai gli strumenti giusti per bypassare la pubblicità, allora ti si apre un mondo di contenuti. Se scrollate Read Comics Online con Ublock Origin, diventa il sito assoluto per i fumetti.",1,io usare Revanced Reddit Revanced YouTube trovare dio Non sapere fare vivere senza fino ora Grazie Revanced ricominciato guardare YouTube YouTube ancora contenuto informativo sai cercare almeno genere cosa guardare soddisfare nonostante meno intrattenimento più educazione stranamente non trovare grande video installare Revanced trovare gozillione video differente su il alimentazione Per guida piraterio servire Reddit stesso YouTube adesso Read Comics Online pensare essere intestare pubblicità inguardabile ma strumento giusto bypassare pubblicità allora aprire mondo contenuto se scrollare Read Comics Online Ublock Origin diventare sito assoluto fumetto,"['positive', 'anticipation']",sentiment_neut
+ki9981c,197vo6o,4,RavenOfTheDead_,Emboar_Bof,Victory Royale!,1,Victory royale,"['neutral', 'none']",sentiment_neut
+kipdwr4,19aeo2k,5,TommoPardo,I-Am-The-Uber-Mesch,In verità sono tutti collegati ad un unico antenato  gatto con lo smoking supremo,1,in verità collegato unico antenare gatto smoking supremo,"['positive', 'trust']",sentiment_neg
+kikqg9z,19aeo2k,5,TommoPardo,Sam-2305,Si chiama Moselle ma io la chiamo Igna ahahah,1,si chiamare Moselle chiamo Igna ahahah,"['neutral', 'none']",sentiment_neg
+kili4d5,19aeo2k,5,I-Am-The-Uber-Mesch,TommoPardo,"https://preview.redd.it/91pdnqp5yedc1.png?width=1080&format=pjpg&auto=webp&s=8e5d675cf34acf60d6ceae56d7a2b3709bc95881
+
+Anche io ho il gattino con lo ""smoking"", adoro questo tipo di pattern",14,Https://preview.redd.it/91pdnqp5yedc1.png?width=1080&format=pjpg&auto=webp&s=8e5d675cf34acf60d6ceae56d7a2b3709bc95881 anche gattino smoking adoro tipo pattern,"['positive', 'joy']",sentiment_neg
+kiknoeb,19aeo2k,5,Sam-2305,TommoPardo,"😍😍😍😍😍 Ho un debole per i gatti con la mascherina!!! 
+
+Come si chiama questa meraviglia?",1,😍 😍 😍 avere debole gatto mascherina Come chiamare meraviglia,"['neutral', 'sadness']",sentiment_neg
+kil31y6,19aeo2k,6,Ok-Management1670,Substantial-Rub-3223,Qualsiasi scatolo diventa il suo piedistallo 😂,3,qualsiasi scatolo diventare piedistallo 😂,"['neutral', 'none']",sentiment_neut
+kil1eff,19aeo2k,6,Substantial-Rub-3223,Ok-Management1670,Sul piedistallo 😂😂😂 stiamo attenti alla proclamazione 😂,3,su il piedistallo 😂 😂 😂 attenti proclamazione 😂,"['neutral', 'none']",sentiment_neut
+kisp7ra,19aeo2k,6,sparkly_carrot,Ok-Management1670,"https://preview.redd.it/6n3men8h0odc1.jpeg?width=1536&format=pjpg&auto=webp&s=abf034ab809b52260b1bc5fbfd4d08bda227e56f
+
+A proposito di gatti e pandori",6,ttps://preview.redd.it/6n3men8h0odc1.jpeg?width=1536&format=pjpg&auto=webp&s=abf034ab809b52260b1bc5fbfd4d08bda227e56fvere a proposito gatto pandore,"['neutral', 'none']",sentiment_neut
+kil156w,19aeo2k,6,Rare_Hovercraft_6673,Ok-Management1670,Il gatto è del team pandoro 🐱,5,il gatto team pandoro 🐱,"['neutral', 'none']",sentiment_neut
+kinimyj,19aeo2k,2,Grazz085,fatinaaa,"E soprattutto tieni conto che nascono con o senza coda, la coda non viene più tagliata perché altrimenti vengono respinti dalle competizioni canine.
+
+Elliot ha la coda, quello precedente invece non l’aveva.",1,e soprattutto tienare conto nascere senza coda codo non venire più tagliare altrimenti venire respinte competizione canino Elliot codare precedente invece non ’,"['neutral', 'trust']",sentiment_neut
+kimqip2,19aeo2k,2,Grazz085,fatinaaa,"Lui proviene da un allevamento e dipende dal pelo.
+Il Corgi standard viene sui 1200€, ma se lo trovi “fluffy” ovvero super peloso viene 800€ perchè non è standard di razza.",4,lui provenire allevamento dipendere pelo il Corgi standard venire 1200 €o trovo “ fluffy ” ovvero super peloso venire 800 € perché non standard razza,"['negative', 'anticipation']",sentiment_neut
+kilz984,19aeo2k,2,Grazz085,Gullible_East_9545,"Si, si chiama Elliot e ha quasi 5 anni.
+
+Un energico testardo brontolone orgoglioso.",6,si chiamare Elliot quasi 5 anno uno energico testardo brontolone orgoglioso,"['positive', 'anticipation']",sentiment_neut
+kil0a82,19aeo2k,2,Grazz085,Blackstar97,"È un meme peloso, è uno svitato.",2,essere meme peloso svitare,"['negative', 'disgust']",sentiment_neut
+kilifdb,19aeo2k,2,Grazz085,Thebigcat02,"https://i.redd.it/q38j044gyedc1.gif
+
+Nei giorni di calma totale 🤣",9,Https://i.redd.it/q38j044gyedc1.gif in il giorno calma totale 🤣,"['positive', 'none']",sentiment_neut
+kiktovz,19aeo2k,2,OktaviaSkoda,Millener89,"Ahahahah, fosse stato il mio avrebbe cominciato a tirare giù tutto da lì",2,ahahahah essere cominciare tirare giù lì,"['positive', 'none']",sentiment_neut
+kikh21k,19aeo2k,2,Conscious-Lie-3994,Millener89,"Hai fatto benissimo, c’è la /s infatti ;)",3,Hai fare bene ’ s infatti ;),"['positive', 'anticipation']",sentiment_neut
+kikmqio,19aeo2k,2,Conscious-Lie-3994,Millener89,"Contribuisco con lui che soffre chiuso fuori dall’ufficio
+
+https://preview.redd.it/pl3di9kppddc1.jpeg?width=3024&format=pjpg&auto=webp&s=3e279bb16058f506310ce712924b725d9b46688e",13,Contribuisco soffrire chiudere fuori ’ ufficio https://preview.redd.it/pl3di9kppddc1.jpeg?width=3024&format=pjpg&auto=webp&s=3e279bb16058f506310ce712924b725d9b46688e,"['negative', 'none']",sentiment_neut
+kimqrpc,19aeo2k,2,fatinaaa,Grazz085,ah grazie mille :),1,ah grazie mille :),"['neutral', 'none']",sentiment_neut
+kimav1h,19aeo2k,2,fatinaaa,Grazz085,"no omiodio, morirei per sti cani ❤️ 
+ma piccola curiosità, costano veramente tanto come dicono su internet, sempre se lo hai preso da un negozio o allevamento",2,no omiodio morireare sti cane ❤ ️ piccolo curiosità costare veramente tanto dire internet sempre prendere negozio allevamento,"['positive', 'anticipation']",sentiment_neut
+kj0k7d6,19aeo2k,2,Quil898,Millener89,"hehehehehe
+
+https://preview.redd.it/vjiiqtjzaydc1.jpeg?width=1536&format=pjpg&auto=webp&s=0a095eb69dcacc49178d9e5dc9ea3896363ec764",2,Hehehehehe Https://preview.redd.it/vjiiqtjzaydc1.jpeg?width=1536&format=pjpg&auto=webp&s=0a095eb69dcacc49178d9e5dc9ea3896363ec764,"['neutral', 'none']",sentiment_neut
+kikfu5g,19aeo2k,2,Millener89,lollo00098981,"Grazie, apprezzo",10,grazie apprezzo,"['neutral', 'none']",sentiment_neut
+kikt6i4,19aeo2k,2,Millener89,OktaviaSkoda,"https://preview.redd.it/yr5xz17s1edc1.jpeg?width=3456&format=pjpg&auto=webp&s=71dee9fb1acc70335a36960029f99126d1b561be
+
+Anche lei",9,https://preview.redd.it/yr5xz17s1edc1.jpeg?width=3456&format=pjpg&auto=webp&s=71dee9fb1acc70335a36960029f99126d1b561be anche,"['neutral', 'none']",sentiment_neut
+kikeh2k,19aeo2k,2,Millener89,Conscious-Lie-3994,Mi andava di postare qualcosa di diverso dai soliti post tristi,12,mi andare postare qualcosa diverso solito post triste,"['neutral', 'sadness']",sentiment_neut
+kimcemw,19aeo2k,2,Millener89,fatinaaa,;),3,;),"['neutral', 'none']",sentiment_neut
+kj0k9i7,19aeo2k,2,Millener89,Quil898,La pirateria non ha più limiti,1,il pirateria non più limite,"['negative', 'anticipation']",sentiment_neut
+kj0k126,19aeo2k,2,Millener89,Quil898,Bastardo,1,Bastardo,"['negative', 'disgust']",sentiment_neut
+kike9nd,19aeo2k,2,Millener89,SuperCiuppa_dos,"Non ricordo esattamente, ma in teoria dovrebbe essere una razza che arriva dall' indocina o comunque li intorno
+
+Comunque non è un gatto di razza, almeno non credo proprio",3,non ricordare esattamente teoria dovere essere razza arrivare indocina comunque intorno Comunque non gatto razza almeno non credere proprio,"['neutral', 'anticipation']",sentiment_neut
+kikfe52,19aeo2k,2,Teqnology,Millener89,"E' un Lynx Point Siamese, ne avevo uno uguale anche io :)
+
+https://i.imgur.com/kYqRsaV.jpg",5,e Lynx Point Siamese uguale :) https://i.imgur.com/kYqRsaV.jpg,"['neutral', 'none']",sentiment_neut
+kiksyje,19aeo2k,2,Gullible_East_9545,Grazz085,"Ma è un Corgiiii
+
+![gif](giphy|tHO6AF6e1tfm8)",15,ma Corgiiii gif giphyre tHO 6AF6e1tfm8,"['neutral', 'none']",sentiment_neut
+kikxher,19aeo2k,2,Blackstar97,Grazz085,Ha del potenziale per essere meme,7,avere potenziale essere meme,"['neutral', 'none']",sentiment_neut
+kilgj1p,19aeo2k,2,Thebigcat02,Grazz085,Se aprisse un OF sarebbe l'unico a cui mi abbinerei.,2,se aprire OF il unico abbinereo,"['positive', 'surprise']",sentiment_neut
+kilgg7u,19aeo2k,2,Thebigcat02,Grazz085,Ma che patato bellissimo,2,ma patare bello,"['positive', 'anticipation']",sentiment_neut
+kikeisj,19aeo2k,2,ConteMopiolo,Millener89,Ma la zampa del gatto è un po' troppo vicina al pulsante!,51,ma zampa gatto po troppo vicino pulsante,"['neutral', 'none']",sentiment_neut
+kikk3ji,19aeo2k,2,ConteMopiolo,John_Slim,Sotto la zampa.,17,sotto Zampa,"['neutral', 'none']",sentiment_neut
+kike83e,19aeo2k,2,that_annoying-one,Millener89,Bel nome per un bel gatto ,8,Bel nome bello gatto,"['positive', 'anticipation']",sentiment_neut
+kikdti8,19aeo2k,2,SuperCiuppa_dos,Millener89,Di che razza è?,3,di razza,"['neutral', 'none']",sentiment_neut
+kikghvu,19aeo2k,2,Vardl0kk,ConteMopiolo,É giusto così,39,essere giusto così,"['positive', 'none']",sentiment_neut
+kikj2un,19aeo2k,2,John_Slim,ConteMopiolo,"Colpa del pulsante, poteva essere da un altra parte",32,colpa pulsante potere essere altro parte,"['negative', 'disgust']",sentiment_neut
+kiob5t3,19aeo2k,3,Antonello_M,Iambetteronmyown,Anche la mia ma purtroppo non ho il suo charme,3,anche purtroppo non charma,"['negative', 'sadness']",sentiment_pos
+kin1ye5,19aeo2k,3,Iambetteronmyown,Antonello_M,La mia massima ispirazione nella vita è di diventare come il signor Pietro,4,il massimo ispirazione vita diventare signore Pietro,"['positive', 'anticipation']",sentiment_pos
+kikvwcy,19aeo2k,7,lollo00098981,xd_ilpostino,Io non riesco nemmeno a decidere cosa mangiare per cena.,1,io non riesco nemmeno decidere cosa mangiare cena,"['neutral', 'none']",sentiment_neg
+kikvyqq,19aeo2k,7,lollo00098981,xd_ilpostino,Comunque non voterei per nessun partito in questo momento.,2,comunque non voterei nessuno partito momento,"['neutral', 'none']",sentiment_neg
+kiks76c,19aeo2k,7,lollo00098981,xd_ilpostino,Ma la fa la fattura?,9,ma fare fattura,"['neutral', 'none']",sentiment_neg
+kikx26s,19aeo2k,7,xd_ilpostino,lollo00098981,Yea no worries stavo scherzando. Stessa cosa io comunque hahahah,4,Yea no worries scherzare Stesso cosa comunque hahahah,"['neutral', 'joy']",sentiment_neg
+kiksyas,19aeo2k,7,xd_ilpostino,lollo00098981,Dipende se voti lega o no 💀,9,dipendere voto legare no 💀,"['negative', 'anticipation']",sentiment_neg
+kikm0x6,19aeo2k,7,xd_ilpostino,lollo00098981,"Oddio assomiglia al mio (dont mind the photo he's a professional)
+
+https://preview.redd.it/ipm8unp8oddc1.png?width=1080&format=pjpg&auto=webp&s=90051191e3019898494b6a102b6e1257d2bf2bdd",34,oddio assomigliare dont mind the photo he 's professional https://preview.redd.it/ipm8unp8oddc1.png?width=1080&format=pjpg&auto=webp&s=90051191e3019898494b6a102b6e1257d2bf2bdd,"['neutral', 'none']",sentiment_neg
+kin4ljz,19aeo2k,7,xd_ilpostino,TunzaGym,"Purtroppo non è il classico utente reddit programmatore full remote con 150k di ral per ora, ha iniziato a fare il corso con boolean quindi penso prossimo anno saremo sui 450-700k",3,purtroppo non classico utente reddit programmatore full remotere 150k ral ora iniziare fare corso Boolean quindi pensare prossimo anno 450 - 700 k,"['positive', 'sadness']",sentiment_neg
+kuor5ih,19aeo2k,7,xd_ilpostino,srbin97,"Che voglio dire, detto da uno che gioca a warhammer è grave 💀",1,che volere dire dire giocare warhammer grave 💀,"['negative', 'anger']",sentiment_neg
+kuoqswa,19aeo2k,7,xd_ilpostino,srbin97,Womp womp,1,Womp womp,"['neutral', 'none']",sentiment_neg
+kimtr4h,19aeo2k,7,TunzaGym,xd_ilpostino,RAL?,2,RAL,"['neutral', 'none']",sentiment_neg
+kuos977,19aeo2k,7,srbin97,xd_ilpostino,so che ti piace giocare a warhammer e che sei un figo,1,sapere piace giocare warhammer figo,"['neutral', 'none']",sentiment_neg
+kuoosd3,19aeo2k,7,srbin97,xd_ilpostino,sei un coglione,1,coglione,"['neutral', 'none']",sentiment_neg
+kiknf0g,19aeo2k,4,VaduzCommando,SlevinLe,Si,2,si,"['neutral', 'none']",sentiment_neut
+kikneby,19aeo2k,4,SlevinLe,VaduzCommando,Maine Coon?,3,Maine Coon,"['neutral', 'none']",sentiment_neut
+kim6gn8,19aeo2k,4,Sunny_182,VaduzCommando,"https://preview.redd.it/s024572qmfdc1.jpeg?width=4032&format=pjpg&auto=webp&s=23c6c2bbb5037bf9fa5c1b4645516f98dbfa4208
+
+Eccone un altro!",8,ttps://preview.redd.it/s024572qmfdc1.jpeg?width=4032&format=pjpg&auto=webp&s=23c6c2bbb5037bf9fa5c1b4645516f98dbfa4208vere Eccone altro,"['neutral', 'none']",sentiment_neut
+kjxxo5z,19aeo2k,8,ErenAuditore,RepublicOpen9642,Palletta ti ringrazia dal suo trono di croccantini,1,Palletta ringrazia trono Croccantini,"['neutral', 'none']",sentiment_pos
+kjxy8wv,19aeo2k,8,RepublicOpen9642,ErenAuditore,Onore a palletta ![gif](emote|free_emotes_pack|give_upvote),2,onore palletta gif emota free_emotes_pack give_upvote,"['positive', 'trust']",sentiment_pos
+kip14xy,19aeo2k,8,RepublicOpen9642,ErenAuditore,È tipo il gatto più figo che abbia mai visto,1,essere tipo gatto più figo mai vedere,"['neutral', 'none']",sentiment_pos
