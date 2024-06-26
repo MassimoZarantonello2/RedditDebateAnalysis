@@ -1,0 +1,7 @@
+2024-06-26 14:53:35,197 - WARNING - From c:\Users\franc\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-06-26 14:54:22,186 - INFO - Caricamento dati da ../debate_dataset.csv
+2024-06-26 14:54:23,111 - INFO - Salvati i risultati parziali in ../results/sentiment_comparison1.csv
+2024-06-26 14:54:23,154 - INFO - Salvati i risultati parziali in ../results/NRC_results.csv
+2024-06-26 15:00:11,816 - INFO - Salvati i risultati parziali in ../results/sentiment_comparison1.csv
+2024-06-26 15:00:11,824 - INFO - Salvati i risultati parziali in ../results/NRC_results.csv
