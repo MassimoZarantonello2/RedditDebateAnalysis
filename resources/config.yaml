@@ -1,10 +1,9 @@
 data:
   input_path: '../debate_dataset.csv'
-  output_path: '../results/sentiment_comparison1.csv'
-
 
 models:
   - 'NRC'
   - 'BERT'
   - 'FEEL'
   - 'MULTILINGUAL'
+  - 'EMOTION'
