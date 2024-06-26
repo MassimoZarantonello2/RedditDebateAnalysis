@@ -45,7 +45,7 @@ def delete_isolated_vertices(graph):
     return graph
 
 def find_minimal_debate(graph):
-    color_list = ['yellow', 'green', 'blue', 'purple', 'orange', 'pink', 'brown', 'black','lightblue','lightgreen','lime','magenta','maroon','navy','olive','purple','silver','teal','white','yellow']
+    color_list = ['yellow', 'green', 'blue', 'purple', 'orange', 'pink', 'brown', 'black','lightgreen','lime','magenta','maroon','navy','purple','silver','teal','yellow']
     i = 0
     graph.vs['debate_id'] = 0
     for vertex in graph.vs:
@@ -67,8 +67,10 @@ def find_minimal_debate(graph):
                         if vertex_to_neighbor and neighbors_to_vertex:
                             vertex['color'] = color
                             vertex['debate_id'] = i
+                            vertex['depth'] = 1
                             vertex_neighbor['color'] = color
                             vertex_neighbor['debate_id'] = i
+                            vertex_neighbor['depth'] = 1
                             break
     return graph
 
@@ -96,18 +98,18 @@ def find_complete_discussion(vertex, graph, deep):
                 neighbor['depth'] = deep
                 find_complete_discussion(neighbor, graph, deep)
 
-    def max(list):
-        max = 0
-        for i in list:
-            if i > max:
-                max = i
-        return max
+def max(list):
+    max = 0
+    for i in list:
+        if i > max:
+            max = i
+    return max
 
 
 if __name__ == '__main__':
     df = pd.read_csv('reddit_comments.csv')
-    deep = 0
-    post_df = df[df['post_id'] == '19aeo2k']
+    deep = 1
+    post_df = df[df['post_id'] == '10v8sey']
 
     graph = create_graph_from_dataframe(post_df)
     graph = delete_isolated_vertices(graph)
@@ -129,7 +131,9 @@ if __name__ == '__main__':
             'selector': 'edge',
             'style': {
                 'line-color': '#ccc',
-                'width': 2
+                'width': 2,
+                'source-arrow-shape': 'triangle',
+                'curve-style': 'bezier'
             }
         }
     ]
@@ -146,16 +150,17 @@ if __name__ == '__main__':
                     'idealEdgeLength': 100,  # Lunghezza ideale degli edge
                     'nodeOverlap': 100,       # Sovrapposizione tra nodi
                     'edgeElasticity': 10,  # Elasticità degli edge (0 significa nessuna elasticità)
-                    'nodeRepulsion': 1000000,  # Repulsione tra nodi              
+                    'nodeRepulsion': 1000000,  # Repulsione tra nodi
+                    'directed': True,       # Direzione degli edge
                     },
             stylesheet=stylesheet,
-            style={'width': '1500px', 'height': '600px', 'border': '1px solid black', 'margin': 'auto'}
+            style={'width': '100%', 'height': '550px', 'border': '1px solid black', 'margin': 'auto'}
         ),
         html.Div(id='output'),
         html.Label('Adjust edge width:'),
         dcc.Slider(
             id='width-slider',
-            min=0,
+            min=1,
             max= max(graph.vs['depth'])+1,
             step=1,
             value=0,
@@ -187,6 +192,7 @@ if __name__ == '__main__':
     )
     def update_graph_visibility(slider_value, on):
         elements = []
+        edges = []
         depth_graph = graph.copy()
         for vertex in depth_graph.vs:
             if vertex['depth'] >= slider_value:
@@ -195,8 +201,8 @@ if __name__ == '__main__':
         if on:
             for edge in depth_graph.es:
                 if depth_graph.vs[edge.source]['debate_id'] != depth_graph.vs[edge.target]['debate_id']:
-                    depth_graph.delete_edges(edge)
-
+                    edges.append(edge.index)
+        depth_graph.delete_edges(edges)
         elements = from_graph_to_visualization(depth_graph)
         return elements
 
